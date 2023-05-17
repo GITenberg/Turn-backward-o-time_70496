@@ -1,0 +1,33 @@
+_repo: Turn-backward-o-time_70496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kubilius, Walter
+    birthdate: 1918
+    deathdate: 1993
+    gutenberg_agent_id: '51847'
+    url: http://www.gutenberg.org/2009/agents/51847
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Kubilius
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70496'
+language: en
+pgterms:marc905: 20220527171010kubilius
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction -- Authorship -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Turn backward, o time!
+url: http://www.gutenberg.org/ebooks/70496
