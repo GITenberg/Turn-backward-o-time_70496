@@ -1,5 +1,8 @@
 _repo: Turn-backward-o-time_70496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70496-h/images/cover.jpg
 creator:
   author:
     agent_name: Kubilius, Walter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51847
     wikipedia: https://en.wikipedia.org/wiki/Walter_Kubilius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70496#Turn-backward-o-time
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70496'
